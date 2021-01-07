@@ -1,0 +1,60 @@
+
+####### Real News: Top 5 similar words to query words ##########
+
+hillary
+	('bill', 0.5866388)
+	('sanders', 0.55510277)
+	('misunderstands', 0.43538406)
+	('infidelities', 0.4284489)
+	('rodham', 0.41929343)
+
+trump
+	('mogul', 0.5401065)
+	('gooch', 0.51069534)
+	('businessman', 0.50022894)
+	('billionaire', 0.49571678)
+	('deplorables', 0.4658226)
+
+obama
+	('overstep', 0.4264993)
+	('reagan', 0.4131626)
+	('rouhani', 0.41046473)
+	('demolish', 0.40716842)
+	('uhuru', 0.393446)
+
+immigration
+	('illegal', 0.5599555)
+	('comprehensive', 0.54919857)
+	('citizenship', 0.539388)
+	('immigrants', 0.5240926)
+	('entitlement', 0.51961344)
+
+####### Fake News: Top 5 similar words to query words ##########
+
+hillary
+	('blewa', 0.51595676)
+	('hilary', 0.5046419)
+	('clinton', 0.48071033)
+	('lying', 0.46884423)
+	('swf', 0.4472136)
+
+trump
+	('rumsfeld', 0.5218291)
+	('unfit', 0.50539565)
+	('duck', 0.48697492)
+	('donald', 0.483603)
+	('rhetoric', 0.4576639)
+
+obama
+	('oxman', 0.5322449)
+	('flanks', 0.42864618)
+	('obamaa', 0.42832655)
+	('pitchforks', 0.4280709)
+	('aquino', 0.4215027)
+
+immigration
+	('immigrants', 0.64326143)
+	('enacted', 0.59287626)
+	('reform', 0.5794237)
+	('customs', 0.573229)
+	('deporting', 0.5579705)
