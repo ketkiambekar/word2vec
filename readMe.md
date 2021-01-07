@@ -13,7 +13,7 @@ Auto suggest words while typing a message
 #### Software Prequisites:
 Python 3.x
 
-When running for the first time use the following comma. to install gensim: 
+When running for the first time use the following comma. to install gensim: <br>
 $ pip install -U gensim
 
 $ python test.py fake_or_real_news.csv mymodel query_words.txt
@@ -26,6 +26,10 @@ word2
 word3
 wordn
 
+
+### Next steps for the project:
+
+Build a flask implementation of autocomplete
 
 
 
