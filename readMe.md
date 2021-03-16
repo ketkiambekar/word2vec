@@ -11,14 +11,17 @@ The word2vec algorithm uses a neural network model to learn word associations fr
 #### Uses 
 Auto suggest words while typing a message
 
-## Instructions to Execute
 
 #### Software Prequisites:
 Python 3.x
 
+## Instructions to Execute
+
+1) Clone the Repo
+2) Run the commands as below:
+
 When running for the first time use the following command to to install gensim: <br>
 $ pip install -U gensim
-
 
 Command to run the consumer python program:<br>
 $ python test.py fake_or_real_news.csv mymodel query_words.txt
