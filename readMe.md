@@ -2,6 +2,8 @@
 
 In this project, we will use the gensim library to demonstrate the use of word2vec. 
 
+**TL;DR:** The program learns the text corpus and finds the top 5 most probable related words. This is the underlying algorithm for text prediction.
+
 ## What is word2vec?
 
 The word2vec algorithm uses a neural network model to learn word associations from a large corpus of text. Once trained, such a model can detect synonymous words or suggest additional words for a partial sentence. 
