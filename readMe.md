@@ -6,8 +6,7 @@ In this project, we will use the gensim library to demonstrate the use of word2v
 
 ## What is word2vec?
 
-The word2vec algorithm uses a neural network model to learn word associations from a large corpus of text. Once trained, such a model can detect synonymous words or suggest additional words for a partial sentence. 
-
+The word2vec algorithm uses a neural network model to learn word associations from a large corpus of text. Once trained, such a model can detect words with highest cosine similarity from the text.
 
 ## Software Prequisites:
 Python 3.x
