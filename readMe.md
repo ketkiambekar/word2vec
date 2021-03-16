@@ -8,11 +8,8 @@ In this project, we will use the gensim library to demonstrate the use of word2v
 
 The word2vec algorithm uses a neural network model to learn word associations from a large corpus of text. Once trained, such a model can detect synonymous words or suggest additional words for a partial sentence. 
 
-#### Uses 
-Auto suggest words while typing a message
 
-
-#### Software Prequisites:
+## Software Prequisites:
 Python 3.x
 
 ## Instructions to Execute
