@@ -17,6 +17,8 @@ Python 3.x
 When running for the first time use the following command to to install gensim: <br>
 $ pip install -U gensim
 
+
+Command to run the consumer python program:
 $ python test.py fake_or_real_news.csv mymodel query_words.txt
 
 
