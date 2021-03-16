@@ -18,7 +18,7 @@ When running for the first time use the following command to to install gensim: 
 $ pip install -U gensim
 
 
-Command to run the consumer python program:
+Command to run the consumer python program:<br>
 $ python test.py fake_or_real_news.csv mymodel query_words.txt
 
 
