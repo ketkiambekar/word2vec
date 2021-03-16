@@ -2,7 +2,7 @@
 
 In this project, we will use the gensim library to demonstrate the use of word2vec. 
 
-**TL;DR:** The program learns the text corpus and finds the top 5 most probable related words. This is the underlying algorithm for text prediction.
+**TL;DR:** The program learns the text corpus and finds the top 5 most probable related words to the words we input to the algorithm. This is the underlying algorithm for text prediction.
 
 ## What is word2vec?
 
